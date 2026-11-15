@@ -10,3 +10,4 @@
 🎨 自定义：图标大小、水平/垂直间距、背景不透明度、字体大小。
 
 🚀 任务栏与 Win+D 免疫：拦截系统 Win + D（显示桌面）指令，且不会在任务栏留下多余图标
+<img width="1327" height="395" alt="image" src="https://github.com/user-attachments/assets/574e37e0-c23c-4252-a78a-49b317323261" />
